@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffefd5"
+    tools:context=".UserActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="KULLANICI BİLGİLERİ"
+        android:visibility="invisible"
+        android:textColor="#F44336"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toTopOf="@+id/adsoyad"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/adsoyad"
+        android:layout_width="244dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="48dp"
+        android:hint="Ad-Soyad"
+        android:text=""
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/cinsiyet"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/cinsiyet"
+        android:layout_width="237dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="36dp"
+        android:hint="Cinsiyet"
+        android:text=""
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/yas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/yas"
+        android:layout_width="232dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="36dp"
+        android:hint="Doğum Tarihi"
+        android:text=""
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/GetirDeger"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/GetirDeger"
+        android:layout_width="142dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="24dp"
+        android:text="Güncelle"
+        app:layout_constraintBottom_toTopOf="@+id/buttonout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="76dp"
+        android:text="Çıkış"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/GetirDeger" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598476025437",
+    "project_id": "lockproje",
+    "storage_bucket": "lockproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598476025437:android:f9c095b15bc6d18e3aa7b4",
+        "android_client_info": {
+          "package_name": "com.enes.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598476025437-217j9340dkshjuo4csebrhnkbtpo0pf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzQWR8Fq8YIIXmAgm7cyYfyLcZqRe4EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598476025437-217j9340dkshjuo4csebrhnkbtpo0pf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_enes.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_lock_desen_screen.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_lock_screen.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_log.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_son_lock_screen.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/pattern_screen.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_enes.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_lock_desen_screen.xml" value="0.264" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_lock_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_login.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/activity_user.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/firno/Desktop/projesonhal/Pattern-lock-view-android-master/app/src/main/res/layout/pattern_screen.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.enes.login">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Login">
+        <activity
+            android:name=".LockDesenScreen"
+            android:label="Desen Çizim"
+            android:exported="false" />
+        <activity
+            android:name=".UserActivity"
+            android:label="Kullanıcı Bilgileri"
+            android:exported="false" />
+        <activity
+            android:name=".Enes"
+            android:exported="false" />
+        <activity
+            android:name=".LockScreenActivity"
+            android:label="Desen Kayıt"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="Giriş Yap"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:label="Menü"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Kayıt Ol"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
